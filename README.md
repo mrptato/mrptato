@@ -16,6 +16,8 @@
 
 🙌 Hope to meet you soon!
 
+Contact me: https://www.linkedin.com/in/mariano-rebord-palazzo-dev/
+
 <br></br>
 
 </p><h2 align="center">Languages and tools:</h2><p align="left"> 
