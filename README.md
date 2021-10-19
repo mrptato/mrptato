@@ -63,6 +63,36 @@ I'm Mariano, full stack developer and engineer with experience in HTML, CSS and 
 
 <br></br>
 
+
+
+<h2 align="center">Food App</h2><p align="left"> 
+<p>Here some images of one of my last projects where I integrated React-Redux, Node Js and PosgreSQL to make a Food app where using an API endpoint (https://spoonacular.com/) and a local database I can order, filter, list and create recipes.
+</p>
+
+<h4>Main page</h4>
+<a href="https://imgur.com/Ce0iMbx"><img src="https://i.imgur.com/Ce0iMbx.png" title="source: imgur.com" /></a>
+ <br\>
+ <h4>Global recipe list</h4>
+ <a href="https://imgur.com/qF9DWSb"><img src="https://i.imgur.com/qF9DWSb.png" title="source: imgur.com" /></a>
+<br></br>
+
+<h4>Filtered by search ('rice')</h4>
+ <a href="https://imgur.com/zjGtLW1"><img src="https://i.imgur.com/zjGtLW1.png" title="source: imgur.com" /></a> 
+<br></br>
+ <h4>Filtered by Healthy score</h4>
+ <a href="https://imgur.com/Y5F2sCl"><img src="https://i.imgur.com/Y5F2sCl.png" title="source: imgur.com" /></a>
+
+<br></br>
+
+ <h4>Dish detail</h4>
+<a href="https://imgur.com/kXKWt8J"><img src="https://i.imgur.com/kXKWt8J.png" title="source: imgur.com" /></a>
+<br></br>
+
+ <h4>Adding a new recipe</h4>
+<a href="https://imgur.com/kXKWt8J"><img src="https://i.imgur.com/kXKWt8J.png" title="source: imgur.com" /></a>
+<br></br>
+
+
 <!--
 **mrptato/mrptato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
