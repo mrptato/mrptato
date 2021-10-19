@@ -92,7 +92,7 @@
 <br></br>
 
  <h4>Adding a new recipe</h4>
-<a href="https://imgur.com/kXKWt8J"><img src="https://i.imgur.com/kXKWt8J.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/Gsbhjq5"><img src="https://i.imgur.com/Gsbhjq5.png" title="source: imgur.com" /></a>
 <br></br>
 
 
