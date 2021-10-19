@@ -1,12 +1,14 @@
-### Hi there 👋
+### 
+👋 Hi there, my name is Mariano! 
+###
 
-I'm Mariano, full stack developer and engineer with experience in HTML, CSS and Javascript. I have some work done on React - Redux, Styled Components, CSS Modules, Node JS, Express, PostgreSQL and MongoDB.
+🙂 Glad to know you are reading this, I hope you find it interesting. I'm a full stack developer and engineer with experience in HTML, CSS and Javascript. I have some work done on React - Redux, Styled Components, CSS Modules, Node JS, Express, PostgreSQL and MongoDB.
 
 ⚡ With energy and the will to advance in this exciting world, I am dedicating myself full time to continue developing these skills.
 
-🌱 I love challenges, and if they are as a team, much better. I love startups, I have experience with two that I started from scratch on my own that are fully functioning. Currently I have delegated my general manager role to be able to dedicate myself to one of my passions which is the web development solutions.
+🌱 I love challenges, and if they are as a team, much better. I love startups 💪, I have experience with two that I started from scratch on my own that are fully functioning. Currently I have delegated my general manager role to be able to dedicate myself to one of my passions which is the web development solutions.
 
-😄 Every day I take my free time to do some activities that clear me up. Like daily exercise and reading. But I can't stop mentioning that my biggest disconnection begins when I sing. Yes, I love to sing, in an amateur way of course.
+😄 Every day I take my free time to do some activities that clear me up. Like daily exercise and reading. But I can't stop mentioning that my biggest disconnection begins when I sing. Yes, I 😍 love  singing, in an amateur way of course lol 😋.
 
 👯 With family and friends who support me in this decision of changing my life course, I'm happy to be in this place with so many things to change and improve to make this world a better place to live in.
 
