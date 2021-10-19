@@ -11,7 +11,7 @@ I'm Mariano, full stack developer and engineer with experience in HTML, CSS and 
 👯 With family and friends who support me in this decision of changing my life course, I'm happy to be in this place with so many things to change and improve to make this world a better place to live in.
 
 
-</p><h2 align="center">Lenguajes y herramientas:</h2><p align="left"> 
+</p><h2 align="center">Languages and tools:</h2><p align="left"> 
  
 <div align="center">
 •Javascript
