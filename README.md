@@ -12,6 +12,10 @@
 
 👯 With family and friends who support me in this decision of changing my life course, I'm happy to be in this place with so many things to change and improve to make this world a better place to live in.
 
+🤝 If you have more questions, I'll be glad to answer you as soon as possible! 
+
+🙌 Hope to meet you soon!
+
 <br></br>
 
 </p><h2 align="center">Languages and tools:</h2><p align="left"> 
