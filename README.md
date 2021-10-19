@@ -12,6 +12,7 @@
 
 👯 With family and friends who support me in this decision of changing my life course, I'm happy to be in this place with so many things to change and improve to make this world a better place to live in.
 
+<br></br>
 
 </p><h2 align="center">Languages and tools:</h2><p align="left"> 
  
@@ -67,8 +68,8 @@
 
 
 
-<h2 align="center">Food App</h2><p align="left"> 
-<p>Here some images of one of my last projects where I integrated React-Redux, Node Js and PosgreSQL to make a Food app where using an API endpoint (https://spoonacular.com/) and a local database I can order, filter, list and create recipes.
+<h2 align="center"> My Food App</h2><p align="left"> 
+<p>Here some images of one of my last projects where I integrated React-Redux, Node Js with Express and Postgre SQL to make a Food app where using an API endpoint (https://spoonacular.com/) and a local database I can order, filter, list and create recipes.
 </p>
 
 <h4>Main page</h4>
