@@ -1,6 +1,5 @@
 ### 
 <h1 align="center">👋 Hi there, my name is Mariano!</h1> 
-###
 
 🙂 Glad to know you are reading this, I hope you find it interesting. I'm a full stack developer and engineer with experience in HTML, CSS and Javascript. I have some work done on React - Redux, Styled Components, CSS Modules, Node JS, Express, PostgreSQL and MongoDB.
 
