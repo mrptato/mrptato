@@ -1,7 +1,7 @@
 ### 
 <h1 align="center">👋 Hi there, my name is Mariano!</h1> 
 
-🙂 Glad to know you are reading this, I hope you find it interesting. I'm a full stack developer and engineer with experience in HTML, CSS and Javascript. I have some work done on React - Redux, Styled Components, CSS Modules, Node JS, Express, PostgreSQL and MongoDB.
+🙂 Glad to know you are reading this, I hope you find it interesting. I'm a full stack developer and engineer with experience in HTML, CSS, Javascript and TypeScript. I have some work done on React - Redux, Styled Components, CSS Modules, Node JS, Express, PostgreSQL and MongoDB.
 
 ⚡ With energy and the will to advance in this exciting world, I am dedicating myself full time to continue developing these skills.
 
