@@ -5,7 +5,7 @@
 
 ⚡ With energy and the will to advance in this exciting world, I am dedicating myself full time to continue developing these skills.
 
-🌱 I love challenges, and if they are as a team, much better. I love startups 💪, I have experience with two that I started from scratch on my own that are fully functioning. Currently I have delegated my general manager role to be able to dedicate myself to one of my passions which is the web development solutions.
+🌱 I love challenges, and if they are as a team, much better. I love startups 💪, I have experience with two that I started from scratch on my own that are fully functional. Currently I have delegated my general manager role to be able to dedicate myself to one of my passions which is the web development solutions.
 
 😄 Every day I take my free time to do some activities that clear me up. Like daily exercise and reading. But I can't stop mentioning that my biggest disconnection begins when I sing. Yes, I 😍 love  singing, in an amateur way of course lol 😋.
 
