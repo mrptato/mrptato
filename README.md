@@ -9,7 +9,7 @@
 
 😄 Every day I take my free time to do some activities that clear me up. Like daily exercise and reading. But I can't stop mentioning that my biggest disconnection begins when I sing. Yes, I 😍 love  singing, in an amateur way of course lol 😋.
 
-👯 With family and friends who support me in this decision of changing my life course, I'm happy to be in this place with so many things to change and improve to make this world a better place to live in.
+👯 I'm happy to be in this place with so many things to change and improve to make this world a better place to live in.
 
 🤝 If you have more questions, I'll be glad to answer you as soon as possible! 
 🌍 Contact me through <a href='https://www.linkedin.com/in/mariano-rebord-palazzo-dev/'>LinkedIn</a> 
